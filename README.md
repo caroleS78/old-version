@@ -1,2 +1,2 @@
-# soprhologie
+# sophrologie
 projet-soutenance-sophrologie
